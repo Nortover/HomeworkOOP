@@ -1,3 +1,6 @@
+
+// ЗМІНЕНО ДЛЯ ДОМАШНЬОЇ РОБОТИ
+
 ﻿using System;
 
 class StudentTable
